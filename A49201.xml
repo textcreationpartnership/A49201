@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Royal letter sent from the King of France to the King of England vvherein is expressed : 1. his royall sollicitation for the Kings Majesties security in his kingdomes : 2. his affection to his sister the Queene : 3. concerning the proceedings of the</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49201</idno>
+            <idno type="STC">Wing L3098</idno>
+            <idno type="STC">ESTC R2891</idno>
+            <idno type="EEBO-CITATION">12577753</idno>
+            <idno type="OCLC">ocm 12577753</idno>
+            <idno type="VID">63650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 250:E137, no 30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Royal letter sent from the King of France to the King of England vvherein is expressed : 1. his royall sollicitation for the Kings Majesties security in his kingdomes : 2. his affection to his sister the Queene : 3. concerning the proceedings of the</title>
+                  <author>Louis XIII, King of France, 1601-1643.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Roger Garthwaite,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing attributes authorship to Louis XIII, King of France.</note>
+                  <note>Dated on p. 7: at our palace in Paris, Feb. 24, 1641 [1642]</note>
+                  <note>Both the imprint and the content of this piece, presenting the Puritan Parliamentary viewpoint, appear to be wholly fictitious except that the printing was probably done in London.</note>
+                  <note>Originally published: Paris : Peter de Boys, 1641?</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669.</term>
+               <term>Marie de Médicis, --  Queen, consort of Henry IV, King of France, 1573-1642.</term>
+               <term>Finch of Fordwich, John Finch, --  Baron, 1584-1660.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63650:1"/>
+            <!-- PDF PAGE 27 -->
+            <pb facs="tcp:63650:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 27 -->
+            <p>
+               <hi>A ROYAL LETTER SENT FROM THE KING OF FRANCE TO THE KING of ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>VVherein is expreſſed,</hi>
+               <list>
+                  <item>
+                     <hi>1.</hi> His Royall ſollicitation for the Kings Maieſties ſecurity in his kingdomes.</item>
+                  <item>
+                     <hi>2.</hi> His Affection to his Siſter the Queene.</item>
+                  <item>
+                     <hi>3.</hi> Concerning the proceedings of the Parliament of <hi>England.</hi>
+                  </item>
+                  <item>
+                     <hi>4.</hi> A briefe relation of the Queene Mother.</item>
+                  <item>
+                     <hi>5.</hi> Touching the Fugitive delinquents (as the Lord <hi>Finch</hi> and others) who Fled into <hi>France.</hi>
+                  </item>
+                  <item>
+                     <hi>6.</hi> Concerning his reſolution about the Iriſh Affaires.</item>
+               </list>
+            </p>
+            <figure>
+               <head>L R</head>
+               <figDesc>royal French blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>Firſt printed at</hi> Paris <hi>by</hi> Peter de Boys, <hi>and now reprinted in</hi> London <hi>for</hi> Roger Garthwaite. <hi>1641.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="copy_of_letter">
+            <pb facs="tcp:63650:2"/>
+            <!-- PDF PAGE 28 -->
+            <pb facs="tcp:63650:2"/>
+            <!-- PDF PAGE 28 -->
+            <head>The Copy of a Royall Letter, ſent from the King of <hi>France</hi> to the King of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>ROYAL BROTHER,</salute>
+            </opener>
+            <p>ALthough the Imperiall Diademe hath crowned each of us by the omnipotent providence of the Almighty, and thoſe once diſ-united, might exaſperate Our princely minde againſt the Brittiſh Nation, yet the Noble lenity of your Clement Nature, and the propi<g ref="char:EOLhyphen"/>tious conſideration of thoſe impendent and in<g ref="char:EOLhyphen"/>tricate perils, wherein your Kingdomes are dan<g ref="char:EOLhyphen"/>gerouſly involved, have reſpectively induced me to declare our good exortations and wel-wiſhes to you. And whereas wee maid rely underſtood and with credible information received intelli<g ref="char:EOLhyphen"/>gence of the rebellious inſurrection of <hi>Ireland,</hi> We did reſpectively ſympathize with your ſol<g ref="char:EOLunhyphen"/>licitous deploration of their diſaſtrous procee<g ref="char:EOLhyphen"/>dings, and will (as ſhall be perſpicuouſly declared
+<pb facs="tcp:63650:3"/>
+               <!-- PDF PAGE 29 -->
+hereafter) vindicate their furious rebellion; But your Majeſty (as hath been prou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by re<g ref="char:EOLhyphen"/>port) hath been miſ-informed of divers particu<g ref="char:EOLhyphen"/>lars, which not onely caſts an indigne aſperſion on our royall Name, and Monarchicall Throne, but highly derogates from Our Imperiall Prero<g ref="char:EOLhyphen"/>gative and innocuous intention. It hath beene publikely divulged, That we alwayes made a lu<g ref="char:EOLhyphen"/>di<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ious diriſion at the perillous diſtractions of your Kingdomes, and did not onely reioyce at the d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſloyalty of <hi>Ireland,</hi> but alſo inſtigated thoſe rebels with a calumnious ſuggeſtion to proceed in their bloudy Tyrannie, as if they ſhould de<g ref="char:EOLhyphen"/>pend in expecta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of our anxiliary aſſiſtance. But we doe utterly defie and deteſt this ſc<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lous and trecherous imputation reflected on Us. and doe withall deſire that the Authors of this <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>entitious Fable fathered on us, may ſuffer ex<g ref="char:EOLhyphen"/>emplary puniſhment: For We royally proteſt and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfirme with our cordall all <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on that wher<g ref="char:EOLhyphen"/>as the dolefull intelligence of the Brittiſh diſtra<g ref="char:EOLhyphen"/>ctions came to Our firſt audience; We were ſo farre from entertaining any de<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſive al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly, that We ſeriouſly rather deplored the prepoſterous condition of the ſame; And as for the reb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llion in <hi>Ireland,</hi> it did ſo ſtimulate Our Juſt indigna<g ref="char:EOLhyphen"/>tion, that We alwayes diſ-affected the ſame, and did not onely <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Our Subiects from preſu<g ref="char:EOLhyphen"/>ming to conioyne with them, but alſo did publiſh a Proclamation to the Epidemicall Aſpect of all
+<pb facs="tcp:63650:3"/>
+               <!-- PDF PAGE 29 -->
+in diſſwaſion, from that <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Wherefore in this <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> We are infinitely <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſed, and our royall Clemencie blaſted with the infamous tongue of audacity, for rather a reci<g ref="char:EOLunhyphen"/>procall ſympathy of thoſe grievances, did con<g ref="char:EOLhyphen"/>curre in our Princely lenity, then a contradicto<g ref="char:EOLhyphen"/>ry antipathy of vindicative reſolution found any entertainment of Tyrannicall habitation in Our commoted Ire. Although many fugitive Delin<g ref="char:EOLhyphen"/>quents (as <hi>Finch</hi> and others) eſcaping from Impar<g ref="char:EOLhyphen"/>tiall Juſtice ſuppoſed to find their <hi>Aſylum</hi> in our realme, yet impute not ſo vicious a connivance in our unſpotted Innocencie, for we will never protect them from impunity. Firſt then the fra<g ref="char:EOLhyphen"/>ternall concatenation of Brotherhood (which by the legitimate bond of Nature We are enjoyn<g ref="char:EOLhyphen"/>ed unto) doth foment a ſollicitous Indulgency in Our Princely, minde to concord and co-union, and not to inmate the precipitious demolition or at the leaſt extenuation of each others Crown. Secondly, the ſingular love of our Siſter (which likewiſe by the reſpective injunction of Nature we are induced unto it doth by a ſweet and deli<g ref="char:EOLhyphen"/>cious compulſion injoyne Ile to corroborate, and not to precipitate each others Throne. Laſtly, the Firm League made between us (which by the national Law of Kingdomes we are bound to obſerve) doth propitiouſly inſtigate us to pre<g ref="char:EOLhyphen"/>ſerve
+<pb facs="tcp:63650:4"/>
+               <!-- PDF PAGE 30 -->
+each others Imperiall Diadems. All theſe unitely concurring together to the plauſible compoſition of mutuall tranquility did reſpect<g ref="char:EOLhyphen"/>ively injoyne us in a reciprocall coaction to declare Our Royall Intents, and indulgent de<g ref="char:EOLhyphen"/>ſires for the flouriſhing proſperity of <hi>England.</hi> We applaud you for the royall entertainement of our Mother (although We have little cauſe, in regard of her inteſtine Stratagem againſt Us) yet Wee conceive had ſhe continued longer in England, ſhe would have ſuddenly brought the State to a deſtructive ruine: notwithſtanding all the ſiniſter deprecations which we wiſh her, are, that in what Climate ſoever ſhe reſides in, at length ſhe may peaceably conſummate her daies in an happy period. We now involve our inten<g ref="char:EOLhyphen"/>tions to the dangerous affaires of <hi>Icland,</hi> whoſe barbarous inſolencie We will ſedulouſly endea<g ref="char:EOLhyphen"/>vour to cohibit in the limited termination of Loyalty and Obedience to you their dread So<g ref="char:EOLhyphen"/>veraigne. What I now implore, and deſire more is contained in theſe conciſe ſubſequent Decla<g ref="char:EOLhyphen"/>rations: Firſt, that your Maieſty would be gra<g ref="char:EOLhyphen"/>ciouſly pleaſed to expedite and animate your Parliament to deliberate things in a concluſive confirmation, that as they have begun Nobly, they may conclude with more fortunate ſucceſſe to the future ſecurity of the Realme: for procra<g ref="char:EOLhyphen"/>ſtination in State matters doth either diſcourage ſome in the ſame Nation, whoſe imminent grie<g ref="char:EOLhyphen"/>vances,
+<pb facs="tcp:63650:4"/>
+               <!-- PDF PAGE 30 -->
+are not eaſied, or at leaſt doth animate forraigne Enemies to perfect any conſpiracie a<g ref="char:EOLhyphen"/>gainſt a Kingdome; but a ſudden concluſion doth both create alacrity in the Joyfull mindes of Subiects, and alſo prevent what ſtratageme may be in agitation. Secondly, We deſire that your Parliament would correſpondently accord with your Maieſty without any oppoſition on either ſides, that thus unitely concurring together the waighty affaires of the Kingdome may bee determinated with more facility. Laſtly, what we deſire more, is, that you would expedite your conſultations for the more propirious reliefe of <hi>Ireland:</hi> And for our ſelfe we royally proteſt, that we will confirme our former reſolution to curbe the Tyrannicall inſolencie of thoſe Rebels, which shall be a ſufficient teſtimony of our in<g ref="char:EOLhyphen"/>dulgent affection to your Maieſties proſperous <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and the undoubted ſecurity of your <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 paragraph">
+                  <desc>〈1 paragraph〉</desc>
+               </gap> 1641.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
